@@ -11,8 +11,8 @@ namespace dugeon_dio {
             System.Console.WriteLine(arus.ToString());
             System.Console.WriteLine(wedge.ToString());
 
-            System.Console.WriteLine(arus.Attack());
-            System.Console.WriteLine(wedge.Attack());
+            System.Console.WriteLine(arus.Attack(70));
+            System.Console.WriteLine(wedge.Attack(90));
         }
     }
 }
