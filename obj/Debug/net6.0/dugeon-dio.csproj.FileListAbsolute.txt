@@ -1,0 +1,15 @@
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\bin\Debug\net6.0\dugeon-dio.exe
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\bin\Debug\net6.0\dugeon-dio.deps.json
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\bin\Debug\net6.0\dugeon-dio.runtimeconfig.json
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\bin\Debug\net6.0\dugeon-dio.dll
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\bin\Debug\net6.0\dugeon-dio.pdb
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\dugeon-dio.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\dugeon-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\dugeon-dio.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\dugeon-dio.AssemblyInfo.cs
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\dugeon-dio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\dugeon-dio.dll
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\refint\dugeon-dio.dll
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\dugeon-dio.pdb
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\dugeon-dio.genruntimeconfig.cache
+C:\Users\thiag\Documents\PORTFoLIO\DIO\dotnet_dio\dugeon-dio\obj\Debug\net6.0\ref\dugeon-dio.dll
